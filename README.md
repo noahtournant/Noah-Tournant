@@ -47,7 +47,10 @@ Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour me
 - Analyse des vulnérabilités
 - Bonnes pratiques de sécurisation des systèmes et réseaux
 - Veille technologique
+- 
+### 📜 Formations & Certifications
 
+* **Cisco Networking Academy** — [CCNA: Introduction to Networks](Asset/CCNA-_Introduction_to_Networks_certificate.pdf) (70 h)
 ## Formation
 
 **SUPINFO** — 3e année d'études en informatique
