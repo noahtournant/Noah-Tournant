@@ -2,7 +2,7 @@
 
 ## Étudiant en informatique — SUPINFO
 
-Actuellement en **3e année à SUPINFO**, je développe mes compétences dans différents domaines de l'informatique et je m'intéresse particulièrement à la **cybersécurité**, aux **réseaux**, à la **data** et à l'**intelligence artificielle**.
+Actuellement en **3e année à SUPINFO**, je développe mes compétences dans différents domaines de l'informatique et je m'intéresse particulièrement à la **cybersécurité** et aux **réseaux**
 
 Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour mettre en pratique mes connaissances et progresser.
 
@@ -22,12 +22,22 @@ Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour me
 - HTML / CSS
 - Git & GitHub
 - Bases de données SQL
+- C
+- C++
+- C#
+- Java
+- PHP
+- SQL
+- React
+- Node.js
+- Docker
 
 ### Réseaux & systèmes
 
-- Notions d'administration système
-- Configuration et compréhension des réseaux
-- Linux
+- AWS
+- CCNA
+- Windows Server
+- Linux Server
 - Virtualisation
 - Protocoles réseau et services courants
 
@@ -38,15 +48,6 @@ Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour me
 - Bonnes pratiques de sécurisation des systèmes et réseaux
 - Veille technologique
 
-### Data & IA
-
-- Manipulation et analyse de données
-- Bases de Python pour la data
-- Découverte du machine learning
-- Exploration des outils et concepts liés à l'intelligence artificielle
-
-> Cette liste évolue au fil de mes projets et de mes apprentissages.
-
 ## Formation
 
 **SUPINFO** — 3e année d'études en informatique
@@ -54,9 +55,5 @@ Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour me
 ##  Projets
 
 Retrouvez mes projets et mes expérimentations directement dans mes dépôts GitHub. Chaque projet est pour moi l'occasion d'apprendre, de résoudre des problèmes et d'améliorer mes compétences.
-
-## 📫 Me contacter
-
-N'hésitez pas à me contacter pour échanger autour de l'informatique, de la cybersécurité, des réseaux, de la data ou de l'IA.
 
 Merci de visiter mon profil !
