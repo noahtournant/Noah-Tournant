@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Noah 👋
+# Bonjour, moi c'est Noah !
 
 ## Étudiant en informatique — SUPINFO
 
@@ -6,14 +6,14 @@ Actuellement en **3e année à SUPINFO**, je développe mes compétences dans di
 
 Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour mettre en pratique mes connaissances et progresser.
 
-## 🎯 Objectifs
+## Objectifs
 
 - Approfondir mes compétences en **cybersécurité**
 - Développer mon expertise en **réseaux et infrastructures**
 - Explorer l'univers de la **data** et de l'**intelligence artificielle**
 - Concevoir des projets concrets et continuer à apprendre au quotidien
 
-## 🛠️ Compétences
+## Compétences
 
 ### Programmation & développement
 
@@ -47,11 +47,11 @@ Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour me
 
 > Cette liste évolue au fil de mes projets et de mes apprentissages.
 
-## 📚 Formation
+## Formation
 
 **SUPINFO** — 3e année d'études en informatique
 
-## 🚀 Projets
+##  Projets
 
 Retrouvez mes projets et mes expérimentations directement dans mes dépôts GitHub. Chaque projet est pour moi l'occasion d'apprendre, de résoudre des problèmes et d'améliorer mes compétences.
 
