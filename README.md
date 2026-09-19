@@ -50,9 +50,7 @@ Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour me
 - 
 ### 📜 Formations & Certifications
 
-* **Cisco Networking Academy** — [CCNA: Introduction to Networks](Asset/CCNA-_Introduction_to_Networks_certificate.pdf) (70 h)
-## Formation
-
+[![Cisco NetAcad - CCNA ITN](https://img.shields.io/badge/Cisco_NetAcad-CCNA:_Intro_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](./Asset/CCNA-_Introduction_to_Networks_certificate.pdf)
 **SUPINFO** — 3e année d'études en informatique
 
 ##  Projets
